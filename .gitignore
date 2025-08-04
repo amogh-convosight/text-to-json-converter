@@ -25,9 +25,10 @@ ENV/
 Thumbs.db
 
 # Output files
-outputs/
+# outputs/  # Commented out to allow outputs folder
 *.json
 !*_schema.json
+!outputs/*.json  # Allow JSON files in outputs folder
 test_case_*_output.json
 
 # Logs
