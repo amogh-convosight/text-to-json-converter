@@ -1,0 +1,32 @@
+{
+  "abstract": "",
+  "authors": [
+    "Vaswani, Ashish",
+    "Shazeer, Noam",
+    "Parmar, Niki",
+    "Uszkoreit, Jakob",
+    "Jones, Llion",
+    "Gomez, Aidan N",
+    "Kaiser, Łukasz",
+    "Polosukhin, Illia"
+  ],
+  "cff_version": "1.2.0",
+  "commit": "",
+  "contact": [],
+  "date_released": "2017",
+  "doi": "",
+  "identifiers": [],
+  "keywords": [],
+  "license": "",
+  "license_url": "",
+  "message": "If you use this work, please cite it using the provided metadata.",
+  "preferred_citation": "",
+  "references": [],
+  "repository": "",
+  "repository_artifact": "",
+  "repository_code": "",
+  "title": "Attention is All you Need",
+  "type": "software",
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+  "version": ""
+}

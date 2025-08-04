@@ -1,0 +1,387 @@
+{
+  "field_schema": null,
+  "basics": {
+    "name": "Amogh Prashant Dumbre",
+    "label": "AI Engineer and Product Manager",
+    "image": null,
+    "email": "amogh.dumbre@gmail.com",
+    "phone": "+91 9175668239",
+    "url": null,
+    "summary": "Dynamic and results-driven AI Engineer and Product Manager with expertise in developing multimodal LLMs, computer vision systems, and knowledge graph applications. Proven track record of enhancing model performance and improving data processing efficiency through innovative AI solutions. Experienced in leading cross-functional teams while managing complete product lifecycles from conceptualization to deployment. Published researcher with multiple IEEE papers demonstrating technical excellence in ensemble deep learning models and genai frameworks.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Pune",
+      "countryCode": "IN",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Convosight",
+      "location": "",
+      "description": "",
+      "position": "AI Developer",
+      "url": "",
+      "startDate": "2025-04",
+      "endDate": "Present",
+      "summary": "Spearheaded the development of Athena, a cutting-edge multi-agent system designed to autonomously interact with diverse tools and platforms, enabling seamless orchestration of AI workflows. Led the design and deployment of all agent systems at Convosight, ensuring scalable, modular, and self-improving architectures for enterprise-grade automation. Acted as Researcher, directing deep research initiatives in AI agents, multi-agent collaboration, and reasoning frameworks, while aligning experimental systems with core business goals.",
+      "highlights": [
+        "Development of Athena multi-agent system",
+        "Design and deployment of agent systems for enterprise automation",
+        "Directed research in AI agents and reasoning frameworks"
+      ]
+    },
+    {
+      "name": "Oobau",
+      "location": "",
+      "description": "",
+      "position": "Applied AI Consultant",
+      "url": "",
+      "startDate": "2024-12",
+      "endDate": "2025-03",
+      "summary": "Architected and launched Eywa, an AI-driven voice platform leveraging agentic technologies to foster professional connections. Developed Oobau Hive system orchestrating multiple AI agents including Mike, a GTM specialist. Managed product life-cycles for a mobile app for Tamil Nadu Global Startup Summit, created a computer vision system for Amydis, and developed a sales assistant for Union Living and an HR screening tool.",
+      "highlights": [
+        "Launched Eywa AI-driven voice platform",
+        "Developed Oobau Hive system",
+        "Managed product life-cycles for mobile app and computer vision system",
+        "Developed sales assistant and HR screening tool"
+      ]
+    },
+    {
+      "name": "Jio Platforms Limited, R&D Division",
+      "location": "",
+      "description": "",
+      "position": "Gen AI Engineer Researcher",
+      "url": "",
+      "startDate": "2024-08",
+      "endDate": "2024-11",
+      "summary": "Conducted research on transforming unstructured data into knowledge graphs using GraphRAG, LightRAG, and Hybrid databases. Developed and deployed multimodal LLMs and NLP moderation models, integrated image captioning and segmentation models. Worked with search frameworks like Taverly and Exa to optimize search capabilities.",
+      "highlights": [
+        "Research on knowledge graphs using GraphRAG, LightRAG, Hybrid databases",
+        "Developed multimodal LLMs and NLP moderation models",
+        "Integrated image captioning and segmentation models",
+        "Worked with search frameworks Taverly and Exa"
+      ]
+    },
+    {
+      "name": "INSOURCE IT EDUCATION AND CERTIFICATION",
+      "location": "",
+      "description": "",
+      "position": "Trainer (Freelancing)",
+      "url": "",
+      "startDate": "2023-10",
+      "endDate": "2024-05",
+      "summary": "Delivered training for Azure AZ-900 certification to Engineering students. Produced training programs for project management, Generative AI, Power BI, and mobile application development.",
+      "highlights": [
+        "Delivered Azure AZ-900 certification training",
+        "Produced training programs for project management, Generative AI, Power BI, mobile app development"
+      ]
+    },
+    {
+      "name": "Department of Artificial Intelligence and Data Science, VIT Pune",
+      "location": "",
+      "description": "",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2024-01",
+      "endDate": "2024-06",
+      "summary": "Developed Medi-Vision, an integrated vision and language model using Vision Transformers (ViT) for medical VQA tasks. Conducted research and implemented fine-tuning and transfer learning techniques, collaborating with healthcare professionals.",
+      "highlights": [
+        "Developed Medi-Vision model for medical VQA",
+        "Implemented fine-tuning and transfer learning for ViT models",
+        "Collaborated with healthcare professionals"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Event Planning And Execution Committee (Student Council)",
+      "position": "Chairperson (General Secretary)",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Acted as a Chairperson at the Student Council, VIT Pune, representing 6000 students and leading a team of 1000 students. Oversaw event planning and execution for major events attracting 20000+ participants. Organized Vishwa Tech Spectra in collaboration with Whirlpool, managing a prize pool exceeding 2 lakhs and creating 100+ internship opportunities.",
+      "highlights": [
+        "Best Event Manager Award at national level",
+        "Led team of 1000 students, represented 6000 students",
+        "Organized Vishwa Tech Spectra with Whirlpool, 100+ internships"
+      ]
+    },
+    {
+      "organization": "VishwaConclave",
+      "position": "Chief Of Administration",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Led and managed a team of 200 individuals, overseeing logistics, finance, and marketing functions to coordinate multiple successful events, including two Conclaves featuring renowned personalities. Collaborated with cross-functional teams to ensure smooth functioning of events.",
+      "highlights": [
+        "Led team of 200",
+        "Oversaw logistics, finance, marketing for events",
+        "Coordinated two Conclaves with renowned personalities"
+      ]
+    },
+    {
+      "organization": "Microsoft Learn Student Club, VIT Pune",
+      "position": "Machine Learning Head",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Led and mentored a team of 40 community members, organizing events such as Hacktoberfest, AI Gaming Events, Imagine Cup, AI Startup Competition and Student Summit. Organized Hackspiration 2023, an offline hackathon focused on AI and web applications for societal good, and conducted workshops on machine learning basics and using AI for social good.",
+      "highlights": [
+        "Led and mentored 40 community members",
+        "Organized Hacktoberfest, AI Gaming Events, Imagine Cup, AI Startup Competition, Student Summit",
+        "Organized Hackspiration 2023 offline hackathon",
+        "Conducted workshops on machine learning basics and AI for social good"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Vishwakarma Institute of Technology, Pune",
+      "url": "",
+      "area": "Artificial Intelligence and Data Science",
+      "studyType": "B.Tech",
+      "startDate": "2020-08",
+      "endDate": "2024-05",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Paper Award",
+      "date": "",
+      "awarder": "International Conference on Intelligent Computing for Sustainable Development (ICICSD-2023), Anurag University",
+      "summary": ""
+    },
+    {
+      "title": "Best Event Manager Award",
+      "date": "",
+      "awarder": "National Institute of Event Management",
+      "summary": "Received Best Event Manager Award at the national level from the National Institute of Event Management."
+    }
+  ],
+  "certificates": null,
+  "publications": [
+    {
+      "name": "Ensemble Approach To Solve Multiple Skin Disease Classification Using Deep Learning",
+      "publisher": "2023 International Conference on Device Intelligence, Computing and Communication Technologies (DICCT), IEEE",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "Developed an ensemble deep learning model combining VGG 16 and EfficientNet(B3) for accurate classification of 23 skin disorders with an accuracy of 69 ± 1%. Conducted performance analysis providing insights on disease severity and location."
+    },
+    {
+      "name": "Improving Few-Shot Learning Across Domains Using GNN-Based Fine Tuning and Domain Adaptation Transformer",
+      "publisher": "International Conference on Intelligent Computing for Sustainable Development (ICICSD-2023), Anurag University",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "Developed a cross-domain few-shot learning framework using Domain Adaptation Transformer and Graph Neural Network, achieving high accuracy on Office and CropDisease datasets."
+    },
+    {
+      "name": "Bi-LSTM Based Interdependent Prediction of Physiological Signals",
+      "publisher": "2023 International Conference on Emerging Smart Computing and Informatics (ESCI), IEEE",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "Developed a Bi-LSTM model for predicting ECG signals from PPG signals, designed a deep learning architecture with BiLSTM and dense layers, trained on the MIMIC III dataset."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "C",
+        "C++",
+        "Java",
+        "R"
+      ]
+    },
+    {
+      "name": "Data Analytics",
+      "level": "",
+      "keywords": [
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Data Mining",
+        "Data Cleaning",
+        "Data Visualization",
+        "Statistical Analysis",
+        "Hypothesis Testing",
+        "Regression Analysis",
+        "Data Quality Assurance"
+      ]
+    },
+    {
+      "name": "Machine Learning and Deep Learning",
+      "level": "",
+      "keywords": [
+        "Scikit-learn",
+        "Keras",
+        "TensorFlow",
+        "CNNs",
+        "RNNs",
+        "GANs",
+        "PyTorch",
+        "Vision Transformers (ViT)",
+        "Large Language Models (LLMs)",
+        "Multi-modal LLMs",
+        "Fine-Tuning",
+        "Model Compression",
+        "Data Compression",
+        "Workload Partitioning",
+        "Performance Profiling",
+        "Distributed Training Tools (DeepSpeed, PyTorch Distributed)"
+      ]
+    },
+    {
+      "name": "Generative AI",
+      "level": "",
+      "keywords": [
+        "Large multimodal models (LMMs)",
+        "Image/video generation",
+        "Diffusion models",
+        "Foundational models"
+      ]
+    },
+    {
+      "name": "Natural Language Processing",
+      "level": "",
+      "keywords": [
+        "NLTK",
+        "spaCy",
+        "NLP",
+        "Text Annotation",
+        "Information Extraction",
+        "Fine-Tuning LLMs",
+        "Speech-to-Speech Models"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": [
+        "Agile Methodologies",
+        "Resource Allocation",
+        "Risk Mitigation",
+        "Budget Management",
+        "Stakeholder Communication",
+        "Market Research",
+        "PDLC Management",
+        "UAT",
+        "RFP/RFI Responses",
+        "Client Requirements Analysis"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "MS Office",
+        "SQL",
+        "MS Excel",
+        "Power BI",
+        "Operating Systems",
+        "AWS",
+        "Azure",
+        "Model Deployment",
+        "Vector Databases",
+        "Scalable Data Pipelines",
+        "Data Architecture"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "",
+      "keywords": [
+        "Leadership",
+        "Strategic Planning",
+        "Effective Communication",
+        "Team Collaboration"
+      ]
+    }
+  ],
+  "languages": null,
+  "interests": null,
+  "references": null,
+  "projects": [
+    {
+      "name": "Ensemble Approach To Solve Multiple Skin Disease Classification Using Deep Learning",
+      "description": "Developed an ensemble deep learning model combining VGG 16 and EfficientNet(B3) for accurate classification of 23 skin disorders with an accuracy of 69 ± 1%. Conducted performance analysis providing insights on disease severity and location.",
+      "highlights": [
+        "Ensemble model with VGG 16 and EfficientNet(B3)",
+        "Classified 23 skin disorders with 69 ± 1% accuracy",
+        "Performance analysis on disease severity and location"
+      ],
+      "keywords": [
+        "Deep Learning",
+        "Skin Disease Classification",
+        "VGG 16",
+        "EfficientNet(B3)"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "Improving Few-Shot Learning Across Domains Using GNN-Based Fine Tuning and Domain Adaptation Transformer",
+      "description": "Developed a cross-domain few-shot learning framework using Domain Adaptation Transformer and Graph Neural Network, achieving 75% accuracy on Office dataset and 96.97% accuracy on CropDisease dataset.",
+      "highlights": [
+        "Few-shot learning framework with DAT and GNN",
+        "75% accuracy on Office dataset",
+        "96.97% accuracy on CropDisease dataset"
+      ],
+      "keywords": [
+        "Few-Shot Learning",
+        "Domain Adaptation Transformer",
+        "Graph Neural Network"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "Bi-LSTM Based Interdependent Prediction of Physiological Signals",
+      "description": "Developed a Bi-LSTM model for predicting ECG signals from PPG signals, designed a deep learning architecture with BiLSTM and dense layers, trained on the MIMIC III dataset.",
+      "highlights": [
+        "Bi-LSTM model for ECG from PPG",
+        "MSE of 0.092 for ECG, 0.065 for PPG",
+        "Trained on MIMIC III dataset"
+      ],
+      "keywords": [
+        "Bi-LSTM",
+        "Physiological Signals",
+        "ECG",
+        "PPG",
+        "MIMIC III"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    }
+  ],
+  "meta": null
+}

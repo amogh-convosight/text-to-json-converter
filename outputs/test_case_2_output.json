@@ -1,0 +1,12 @@
+{
+  "name": "MkDocs Publisher",
+  "author": "DevRel Team",
+  "description": "A simple action to build an MkDocs site and push it to the gh-pages branch. Should be easy to use.",
+  "inputs": {},
+  "outputs": "page-url: The URL of the deployed GitHub Pages site. Value: ${{ steps.deploy.outputs.page_url }}",
+  "runs": "composite action (using: composite). Steps: 1. Checkout Code (actions/checkout@v4). 2. Setup Python (actions/setup-python@v5, uses python-version input, id: setup_python). 3. Install Dependencies (pip install -r ${{ inputs.requirements-file }}, bash shell, name: Install Python Packages). 4. Build Site (mkdocs build, bash shell). 5. Deploy to Pages (peaceiris/actions-gh-pages@v3, id: deploy, github_token: gh-token input, publish_dir: ./site, condition: github.ref == 'refs/heads/main'). Output page-url is set to ${{ steps.deploy.outputs.page_url }}.",
+  "branding": {
+    "color": "blue",
+    "icon": "book-open"
+  }
+}
