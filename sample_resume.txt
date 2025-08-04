@@ -1,0 +1,73 @@
+John Doe
+Software Engineer | San Francisco, CA
+Email: john.doe@email.com | Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+SUMMARY
+Experienced software engineer with 5+ years developing scalable web applications. 
+Expertise in Python, JavaScript, and cloud technologies. Passionate about building 
+efficient solutions and mentoring junior developers.
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+TechCorp Inc., San Francisco, CA
+June 2021 - Present
+• Led development of microservices architecture serving 1M+ daily users
+• Reduced API response time by 40% through optimization
+• Mentored team of 5 junior developers
+• Technologies: Python, Django, AWS, Docker, Kubernetes
+
+Software Engineer
+StartupXYZ, San Francisco, CA  
+March 2019 - May 2021
+• Built RESTful APIs and real-time features using WebSockets
+• Implemented CI/CD pipeline reducing deployment time by 60%
+• Collaborated with product team to deliver features on schedule
+• Technologies: Node.js, React, PostgreSQL, Redis
+
+Junior Developer
+WebDev Solutions, San Jose, CA
+July 2018 - February 2019
+• Developed responsive web applications
+• Fixed bugs and improved application performance
+• Participated in code reviews and agile ceremonies
+• Technologies: JavaScript, HTML/CSS, MySQL
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley
+Graduated: May 2018
+GPA: 3.7/4.0
+
+SKILLS
+
+Programming Languages: Python, JavaScript, TypeScript, Java, Go
+Frameworks: Django, Flask, React, Node.js, Express
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Cloud/DevOps: AWS, Docker, Kubernetes, CI/CD, Terraform
+Tools: Git, JIRA, Slack, VS Code
+
+CERTIFICATIONS
+
+• AWS Certified Solutions Architect (2022)
+• Google Cloud Professional Developer (2021)
+
+PROJECTS
+
+Open Source Contributor
+• Active contributor to several Python libraries
+• Maintained documentation for popular web framework
+• 500+ GitHub stars on personal projects
+
+Personal Blog Platform
+• Built full-stack blogging platform with 10K+ monthly visitors
+• Implemented SEO optimization and analytics
+• Technologies: Next.js, PostgreSQL, Vercel
+
+LANGUAGES
+
+• English (Native)
+• Spanish (Conversational)
+• Mandarin (Basic) 
